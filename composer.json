@@ -1,0 +1,11 @@
+{
+
+    "name":"homeWork/Locator",
+    "description":"The PHP ",
+    "type":"library",
+    "autoload":{
+        "psr-4":{
+            "Locator\\":"src/"
+        }
+    }
+}
